@@ -3,3 +3,9 @@ sün
 oroszlán
 fóka
 gepárd
+kutya
+macska
+fóka
+tengerimalac
+elefánt
+béka
